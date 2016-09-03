@@ -1,4 +1,11 @@
-# Pokémon Yellow
+
+Welcome to Pokemon Mew World Order! 
+The FIRST hack of Yellow that allows MEW to follow you! 
+
+https://twitter.com/pokemon_mwo
+
+
+# Pokémon Mew World Order
 
 This is a disassembly of Pokémon Yellow.
 
@@ -18,3 +25,9 @@ To set up the repository, see [**INSTALL.md**](INSTALL.md).
 [pokered]: https://github.com/iimarckus/pokered
 [pokecrystal]: https://github.com/kanzure/pokecrystal
 [irc]: https://kiwiirc.com/client/irc.freenode.net/?#pret
+
+SHOUT OUT TO...
+
+Dannye- for making yellow look beautiful with GenII graphics!
+Padz- for keepin it real!
+MySoft- For helping Padz and Dan teach a retarded monkey Chinese!!!
