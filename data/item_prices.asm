@@ -4,7 +4,7 @@ ItemPrices:
 	money 600   ; GREAT_BALL
 	money 200   ; POKE_BALL
 	money 0     ; TOWN_MAP
-	money 0     ; BICYCLE
+	money 1000  ; BICYCLE
 	money 0     ; SURFBOARD
 	money 1000  ; SAFARI_BALL
 	money 0     ; POKEDEX
@@ -38,7 +38,7 @@ ItemPrices:
 	money 9800  ; IRON
 	money 9800  ; CARBOS
 	money 9800  ; CALCIUM
-	money 4800  ; RARE_CANDY
+	money 3000  ; RARE_CANDY
 	money 0     ; DOME_FOSSIL
 	money 0     ; HELIX_FOSSIL
 	money 0     ; SECRET_KEY

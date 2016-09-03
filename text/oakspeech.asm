@@ -1,41 +1,41 @@
 _OakSpeechText1::
 	text "Hello there!"
-	line "Welcome to the"
-	cont "world of #MON!"
+	line "Welcome to"
+	cont "#MON M.W.O.!"
 
 	para "My name is OAK!"
-	line "People call me"
-	cont "the #MON PROF!"
+	line "You and I,"
+	cont "we are #MON!"
 	prompt
 
 _OakSpeechText2A::
 	text "This world is"
-	line "inhabited by"
-	cont "creatures called"
+	line "controlled by"
+	cont "an old, ancient"
 	cont "#MON!@@"
 
 _OakSpeechText2B::
-	text $51,"For some people,"
-	line "#MON are"
-	cont "pets. Others use"
-	cont "them for fights."
+	text $51,"Sightings of"
+	line "this #MON are"
+	cont "RARE. Some say"
+	cont "impossible."
 
-	para "Myself..."
+	para "Luckily,"
 
-	para "I study #MON"
-	line "as a profession."
+	para "I've found"
+	line "it's DNA!"
 	prompt
 
 _IntroducePlayerText::
-	text "First, what is"
+	text "Hey, what is"
 	line "your name?"
 	prompt
 
 _IntroduceRivalText::
 	text "This is my grand-"
-	line "son. He's been"
-	cont "your rival since"
-	cont "you were a baby."
+	line "son. He has"
+	cont "helped me create"
+	cont "a new #MON!"
 
 	para "...Erm, what is"
 	line "his name again?"

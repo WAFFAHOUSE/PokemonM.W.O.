@@ -1,14 +1,14 @@
 Route22Mons:
 	db $19
-	db 2,NIDORAN_M
-	db 2,NIDORAN_F
-	db 3,MANKEY
-	db 3,RATTATA
-	db 4,NIDORAN_M
-	db 4,NIDORAN_F
-	db 5,MANKEY
-	db 2,SPEAROW
-	db 4,SPEAROW
-	db 6,SPEAROW
+	db 8,GROWLITHE
+	db 7,PONYTA
+	db 5,EEVEE
+	db 10,LICKITUNG
+	db 9,CUBONE
+	db 12,MEOWTH
+	db 10,PORYGON
+	db 6,SANDSHREW
+	db 8,SLOWPOKE
+	db 9,TANGELA
 	db $00
 

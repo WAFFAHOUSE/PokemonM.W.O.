@@ -1,15 +1,15 @@
 _Route1ViridianMartSampleText::
-	text "Hi! I work at a"
-	line "#MON MART."
+	text "OMG! A Pikachu"
+	line "and a MEW!!!"
 
-	para "It's a convenient"
-	line "shop, so please"
-	cont "visit us in"
-	cont "VIRIDIAN CITY."
+	para "It must be my"
+	line "lucky day! I"
+	cont "have only seen"
+	cont "pictures of it!"
 
-	para "I know, I'll give"
-	line "you a sample!"
-	cont "Here you go!"
+	para "It looks hurt..."
+	line "Give it this,"
+	cont "it will help."
 	prompt
 
 _Route1Text_1cae8::
@@ -19,9 +19,9 @@ _Route1Text_1cae8::
 	text "!@@"
 
 _Route1Text_1caee::
-	text "We also carry"
-	line "# BALLs for"
-	cont "catching #MON!"
+	text "They can heal"
+	line "your #MON in"
+	cont "VIRIDIAN CITY."
 	done
 
 _Route1Text_1caf3::
@@ -30,16 +30,16 @@ _Route1Text_1caf3::
 	done
 
 _Route1Text2::
-	text "See those ledges"
-	line "along the road?"
+	text "I knew I saw a"
+	line "MEW around here!"
 
-	para "It's a bit scary,"
-	line "but you can jump"
-	cont "from them."
+	para "Maybe now people"
+	line "will believe me!"
+	cont "MEW is the..."
 
-	para "You can get back"
-	line "to PALLET TOWN"
-	cont "quicker that way."
+	para "origin of all"
+	line "#MON! It can"
+	cont "read your mind!"
 	done
 
 _Route1Text3::

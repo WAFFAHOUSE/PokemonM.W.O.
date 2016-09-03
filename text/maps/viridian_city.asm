@@ -36,14 +36,14 @@ _OldManTextAfterBattle::
 	done
 
 _ViridianCityText1::
-	text "Those # BALLs"
-	line "at your waist!"
-	cont "You have #MON!"
+	text "I'm saving my"
+	line "money up for"
+	cont "a HOVERBOARD!"
 
-	para "It's great that"
-	line "you can carry and"
-	cont "use #MON any-"
-	cont "time, anywhere!"
+	para "The manager at"
+	line "our PokeMart is"
+	cont "waiting on the"
+	cont "1st shipment!"
 	done
 
 _ViridianCityText_19122::
@@ -61,9 +61,9 @@ _ViridianCityText_19127::
 
 _ViridianCityText_1914d::
 	text "You want to know"
-	line "about the 2 kinds"
-	cont "of caterpillar"
-	cont "#MON?"
+	line "the truth about"
+	cont "the Legendary"
+	cont "#MON MEW?"
 	done
 
 _ViridianCityText_19152::
@@ -71,12 +71,12 @@ _ViridianCityText_19152::
 	done
 
 _ViridianCityText_19157::
-	text "CATERPIE has no"
-	line "poison, but"
-	cont "WEEDLE does."
+	text "It controls the"
+	line "entire planet"
+	cont "with it's mind!"
 
-	para "Watch out for its"
-	line "POISON STING!"
+	para "Mind-Control for"
+	line "the masses!!!"
 	done
 
 _ViridianCityText_19175::

@@ -20,13 +20,13 @@ ViridianMartParcelQuestText::
 	line "OAK's PARCEL!@@"
 
 _ViridianMartText2::
-	text "This shop sells a"
-	line "lot of PARLYZ"
-	cont "HEALs."
+	text "I've waited"
+	line "3 weeks for my"
+	cont "HOVERBOARD!!!"
 	done
 
 _ViridianMartText3::
 	text "The shop finally"
-	line "has some POTIONs"
-	cont "in stock."
+	line "has HOVERBOARDS"
+	cont "in stock!"
 	done

@@ -521,7 +521,7 @@ _BookcaseText::
 
 _NewBicycleText::
 	text "A shiny new"
-	line "BICYCLE!"
+	line "HOVERBOARD!"
 	done
 
 _PushStartText::

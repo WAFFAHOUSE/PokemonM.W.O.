@@ -180,8 +180,8 @@ _CeruleanCityText_1977e::
 	done
 
 _CeruleanCityText9::
-	text "I want a bright"
-	line "red BICYCLE!"
+	text "I want a"
+	line "HOVERBOARD!"
 
 	para "I'll keep it at"
 	line "home, so it won't"

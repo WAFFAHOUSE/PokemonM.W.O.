@@ -74,7 +74,7 @@ OakSpeech:
 	call GBFadeOutToWhite
 	call ClearScreen
 	callba SendPikaPal
-	ld a,PIKACHU
+	ld a,MEW
 	ld [wd0b5],a
 	ld [wcf91],a
 	call GetMonHeader

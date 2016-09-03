@@ -9,7 +9,7 @@ IsStarterPikachuInOurParty::
 	push hl
 	inc a
 	jr z, .noPlayerPikachu
-	cp PIKACHU + 1
+	cp MEW + 1
 	jr nz, .curMonNotPlayerPikachu
 	ld h, d
 	ld l, e

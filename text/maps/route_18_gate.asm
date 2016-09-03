@@ -1,6 +1,6 @@
 _Route18GateText_49928::
-	text "You need a BICYCLE"
-	line "for CYCLING ROAD!"
+	text "You need a"
+	line "HOVERBOARD!"
 	done
 
 _Route18GateText_4992d::

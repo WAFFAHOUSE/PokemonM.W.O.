@@ -108,17 +108,17 @@ ReceivedBikeVoucherText::
 ExplainBikeVoucherText::
 	text ""
 	para "Exchange that for"
-	line "a BICYCLE!"
+	line "a HOVERBOARD!"
 
 	para "Don't worry, my"
 	line "FEAROW will FLY"
 	cont "me anywhere!"
 
 	para "So, I don't need a"
-	line "BICYCLE!"
+	line "HOVERBOARD!"
 
 	para "I hope you like"
-	line "cycling!"
+	line "boarding!"
 	done
 
 FanClubNoStoryText::

@@ -1,27 +1,27 @@
 _OakAppearsText::
-	text "OAK: Hey! Wait!"
-	line "Don't go out!@@"
+	text "OAK: OMG! Wait!"
+	line "IT'S A MEW!!!@@"
 
 _OakWalksUpText::
-	text "OAK: That was"
-	line "close!"
+	text "OAK: This is"
+	line "incredible!"
 
-	para "Wild #MON live"
-	line "in tall grass!"
+	para "I'm going to"
+	line "catch him!"
 	done
 
 _OakWhewText::
-	text "OAK: Whew..."
+	text "OAK: WOW!!!"
 	done
 
 _OakGrassText::
-	text "OAK: A #MON can"
-	line "appear anytime in"
-	cont "tall grass."
+	text "OAK: I just got"
+	line "the 1st #MON"
+	cont "to ever exist!"
 
-	para "You need your own"
-	line "#MON for your"
-	cont "protection."
+	para "Maybe I can get"
+	line "it's DNA pattern"
+	cont "right this time!"
 	cont "I know!"
 
 	para "Here, come with"
@@ -29,12 +29,12 @@ _OakGrassText::
 	done
 
 _PalletTownText2::
-	text "I'm raising"
-	line "#MON too!"
+	text "I saw it!"
+	line "It was a MEW!"
 
-	para "When they get"
-	line "strong, they can"
-	cont "protect me!"
+	para "Nobody belives"
+	line "me! I swear I"
+	cont "saw it!!!"
 	done
 
 _PalletTownText3::

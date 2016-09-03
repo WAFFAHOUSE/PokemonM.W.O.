@@ -1,6 +1,6 @@
 _OaksLabGaryText1::
 	text "<RIVAL>: Yo"
-	line "<PLAYER>! Gramps"
+	line "<PLAYER>! PawPaw"
 	cont "isn't around!"
 
 	para "I ran here 'cos"
@@ -21,9 +21,9 @@ _OaksLabText41::
 	done
 
 _OaksLabText39::
-	text "That's a #"
-	line "BALL. There's a"
-	cont "#MON inside!"
+	text "So that's the"
+	line "creation? It's a"
+	cont "NEW #MON?!?"
 	done
 
 _OaksLabPikachuText::
@@ -50,8 +50,8 @@ _OaksLabText_1d2fa::
 _OaksLabDeliverParcelText1::
 	text "OAK: Oh, <PLAYER>!"
 
-	para "How is my old"
-	line "#MON?"
+	para "How is your"
+	line "MEW?"
 
 	para "Well, it seems to"
 	line "like you a lot."
@@ -68,8 +68,8 @@ _OaksLabDeliverParcelText1::
 
 _OaksLabDeliverParcelText2::
 	text ""
-	para "Ah! This is the"
-	line "custom # BALL"
+	para "This is the DNA"
+	line "analysis kit"
 	cont "I ordered!"
 	cont "Thanks, <PLAYER>!"
 
@@ -155,7 +155,7 @@ _OaksLabText_1d340::
 	done
 
 _OaksLabRivalWaitingText::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: PawPaw!"
 	line "I'm fed up with"
 	cont "waiting!"
 	done
@@ -165,8 +165,8 @@ _OaksLabChooseMonText::
 	line "Why are you here"
 	cont "already?"
 
-	para "I said for you to"
-	line "come by later..."
+	para "I told you to go"
+	line "get my PARCEL..."
 
 	para "Ah, whatever!"
 	line "Just wait there."
@@ -175,17 +175,17 @@ _OaksLabChooseMonText::
 	line "you see that ball"
 	cont "on the table?"
 
-	para "It's called a #"
-	line "BALL. It holds a"
-	cont "#MON inside."
+	para "It's got my"
+	line "creation inside!"
+	cont "A NEW #MON!"
 
-	para "You may have it!"
-	line "Go on, take it!"
+	para "You can keep it!"
+	line "Go on, grab it!"
 	done
 
 _OaksLabRivalInterjectionText::
 	text "<RIVAL>: Hey!"
-	line "Gramps! What"
+	line "PawPaw! What"
 	cont "about me?"
 	done
 
@@ -211,7 +211,7 @@ _OaksLabRivalTakesText3::
 	prompt
 
 _OaksLabRivalTakesText4::
-	text "<RIVAL>: Gramps, I"
+	text "<RIVAL>: PawPaw, I"
 	line "want this one!"
 	prompt
 
@@ -222,8 +222,8 @@ _OaksLabRivalTakesText5::
 	cont "yours."
 
 	para "I was going to"
-	line "give you one"
-	cont "anyway..."
+	line "give you a MEW!"
+	cont "Anyways..."
 
 	para "<PLAYER>, come over"
 	line "here."
@@ -232,12 +232,12 @@ _OaksLabRivalTakesText5::
 _OaksLabOakGivesText::
 	text "OAK: <PLAYER>, this"
 	line "is the #MON I"
-	cont "caught earlier."
+	cont "caught, MEW!"
 
-	para "You can have it."
-	line "I caught it in"
-	cont "the wild and it's"
-	cont "not tame yet."
+	para "You can keep it."
+	line "This is the"
+	cont "rarest #MON in"
+	cont "the world!!!"
 	prompt
 
 _OaksLabReceivedText::
@@ -279,7 +279,7 @@ _OaksLabRivalToughenUpText::
 	cont "#MON fight to"
 	cont "toughen it up!"
 
-	para "<PLAYER>! Gramps!"
+	para "<PLAYER>! PawPaw!"
 	line "Smell you later!"
 	done
 
@@ -293,7 +293,7 @@ _OaksLabPikachuDislikesPokeballsText2::
 
 	para "It's odd, but it"
 	line "appears that your"
-	cont "PIKACHU dislikes"
+	cont "MEW dislikes"
 	cont "# BALLs."
 
 	para "You should just"
@@ -308,11 +308,11 @@ _OaksLabPikachuDislikesPokeballsText2::
 	done
 
 _OaksLabText21::
-	text "<RIVAL>: Gramps!"
+	text "<RIVAL>: PawPaw!"
 	done
 
 _OaksLabText22::
-	text "<RIVAL>: Gramps,"
+	text "<RIVAL>: PawPaw,"
 	line "my #MON has"
 	cont "grown stronger!"
 	cont "Check it out!"
@@ -367,19 +367,19 @@ _OaksLabText26::
 	para "Get moving, you"
 	line "two!"
 
-	para "This is a great"
-	line "undertaking in"
-	cont "#MON history!"
+	para "I have lots of"
+	line "work to do with"
+	cont "this new DNA..."
 	done
 
 _OaksLabText27::
 	text "<RIVAL>: Alright"
-	line "Gramps! Leave it"
+	line "PawPaw! Leave it"
 	cont "all to me!"
 
 	para "<PLAYER>, I hate to"
 	line "say it, but I"
-	cont "don't need you!"
+	cont "don't need MEW!"
 
 	para "I know! I'll"
 	line "borrow a TOWN MAP"
