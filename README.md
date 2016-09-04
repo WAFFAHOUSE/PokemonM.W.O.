@@ -1,6 +1,9 @@
 
-Welcome to Pokemon Mew World Order! 
+Welcome to Pokémon Mew World Order! 
+
 The FIRST hack of Yellow that allows MEW to follow you! 
+
+http://pokemonmwo.wixsite.com/mewworldorder
 
 https://twitter.com/pokemon_mwo
 
