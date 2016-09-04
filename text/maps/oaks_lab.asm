@@ -71,7 +71,7 @@ _OaksLabDeliverParcelText2::
 	para "This is the DNA"
 	line "analysis kit"
 	cont "I ordered!"
-	cont "Thanks, <PLAYER>!"
+	cont "Thanks <PLAYER>!"
 
 	para "By the way, I must"
 	line "ask you to do"

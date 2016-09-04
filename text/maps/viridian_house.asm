@@ -1,23 +1,23 @@
 _ViridianHouseText1::
-	text "Coming up with"
-	line "nicknames is fun,"
-	cont "but hard."
+	text "The creator of"
+	line "this game is"
+	cont "WAFFAHOUSE"
 
-	para "Simple names are"
-	line "the easiest to"
-	cont "remember."
+	para "Follow him on"
+	line "Twitter here..."
+	cont "@Pokemon_MWO"
 	done
 
 _ViridianHouseText2::
 	text "My Daddy loves"
-	line "#MON too."
+	line "Twitter!"
 	done
 
 _ViridianHouseText_1d5b1::
-	text "SPEARY: Tetweet!"
+	text "SPEARY: Retweet!"
 	done
 
 _ViridianHouseText4::
 	text "SPEAROW"
-	line "Name: SPEARY"
+	line "Name: TWEET"
 	done

@@ -7,7 +7,7 @@ _OakWalksUpText::
 	line "incredible!"
 
 	para "I'm going to"
-	line "catch him!"
+	line "catch it!!!"
 	done
 
 _OakWhewText::

@@ -7,9 +7,9 @@ _ViridianForestText1::
 	done
 
 _ViridianForestBattleText1::
-	text "Hey! You have"
+	text "Hey! You're a"
 	line "#MON! Come on!"
-	cont "Let's battle 'em!"
+	cont "Let's battle!"
 	done
 
 _ViridianForestEndBattleText1::
@@ -63,7 +63,7 @@ _ViridianFrstAfterBattleText3::
 	done
 
 _ViridianForestBattleTextPikaGirl::
-	text "Hi, do you have a"
+	text "Hi, are you a"
 	line "PIKACHU?"
 	done
 
