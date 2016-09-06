@@ -1,14 +1,14 @@
 MansionMons3:
 	db $0A
-	db 40,RATTATA
-	db 40,RATICATE
-	db 32,GRIMER
+	db 33,ABRA
+	db 44,KADABRA
+	db 55,ALAKAZAM
 	db 35,GRIMER
-	db 43,RATTATA
-	db 43,RATICATE
-	db 38,GRIMER
-	db 38,GRIMER
-	db 38,MUK
-	db 41,MUK
+	db 50,MUK
+	db 50,RATICATE
+	db 33,MACHOP
+	db 44,MACHOKE
+	db 55,MACHAMP
+	db 50,ARBOK
 	db $00
 

@@ -9,37 +9,37 @@ PrizeDifferentMenuPtrs:
 	dw PrizeMenuTMsCost
 
 PrizeMenuMon1Entries:
-	db ABRA
-	db VULPIX
-	db WIGGLYTUFF
+	db JOLTEON
+	db FLAREON
+	db VAPOREON
 	db "@"
 
 PrizeMenuMon1Cost:
-	coins 230
-	coins 1000
-	coins 2680
+	coins 3333
+	coins 3333
+	coins 3333
 	db "@"
 
 PrizeMenuMon2Entries:
-	db SCYTHER
-	db PINSIR
-	db PORYGON
+	db ZAPDOS
+	db MOLTRES
+	db ARTICUNO
 	db "@"
 
 PrizeMenuMon2Cost:
-	coins 6500
-	coins 6500
-	coins 9999
+	coins 6666
+	coins 6666
+	coins 6666
 	db "@"
 
 PrizeMenuTMsEntries:
-	db TM_23
-	db TM_15
-	db TM_50
+	db TM_38
+	db TM_25
+	db TM_14
 	db "@"
 
 PrizeMenuTMsCost:
-	coins 3300
-	coins 5500
-	coins 7700
+	coins 5000
+	coins 5000
+	coins 5000
 	db "@"

@@ -1,14 +1,14 @@
 TunnelMonsB1:
 	db $0F
-	db 15,ZUBAT
-	db 16,GEODUDE
-	db 17,ZUBAT
-	db 19,ZUBAT
-	db 18,GEODUDE
-	db 20,GEODUDE
-	db 21,ZUBAT
-	db 17,MACHOP
-	db 19,MACHOP
-	db 21,MACHOP
+	db 32,GRAVELER
+	db 35,GOLEM
+	db 29,ZUBAT
+	db 34,GOLBAT
+	db 33,ONIX
+	db 27,SANDSHREW
+	db 30,SANDSLASH
+	db 28,MACHOP
+	db 30,MACHOKE
+	db 35,MACHAMP
 	db $00
 

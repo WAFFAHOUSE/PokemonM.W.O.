@@ -1,8 +1,8 @@
 PrizeMonLevelDictionary:
-	db ABRA,15
-	db VULPIX,18
-	db WIGGLYTUFF,22
+	db JOLTEON,50
+	db FLAREON,50
+	db VAPOREON,50
 
-	db SCYTHER,30
-	db PINSIR,30
-	db PORYGON,26
+	db ZAPDOS,50
+	db MOLTRES,50
+	db ARTICUNO,50

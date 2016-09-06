@@ -1,14 +1,14 @@
 TunnelMonsB2:
 	db $0F
-	db 20,ZUBAT
-	db 17,GEODUDE
-	db 18,MACHOP
-	db 21,ZUBAT
-	db 22,ZUBAT
-	db 21,GEODUDE
-	db 20,MACHOP
-	db 14,ONIX
-	db 18,ONIX
-	db 22,ONIX
+	db 24,OMANYTE
+	db 32,OMASTAR
+	db 24,KABUTO
+	db 32,KABUTOPS
+	db 40,AERODACTYL
+	db 27,RHYHORN
+	db 35,RHYDON
+	db 28,GEODUDE
+	db 38,GRAVELER
+	db 40,GOLEM
 	db $00
 
