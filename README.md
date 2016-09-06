@@ -14,7 +14,7 @@ This is a disassembly of Pokémon Yellow.
 
 It builds the following rom:
 
-* Pokemon Yellow (UE) [C][!].gbc  `md5: d9290db87b1f0a23b89f99ee4469e34b`
+* PokemonMWO.gbc  `md5: d9290db87b1f0a23b89f99ee4469e34b`
 
 To set up the repository, see [**INSTALL.md**](INSTALL.md).
 
@@ -34,3 +34,4 @@ SHOUT OUT TO...
 Dannye- for making yellow look beautiful with GenII graphics!
 Padz- for keepin it real!
 MySoft- For helping Padz and Dan teach a retarded monkey Chinese!!!
+Albert Einstein- For all his hard work on TitleScreen and his Theory of Relativity!
