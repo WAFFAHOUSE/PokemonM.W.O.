@@ -6,7 +6,7 @@ ItemPrices:
 	money 0     ; TOWN_MAP
 	money 3333  ; BICYCLE
 	money 5000  ; SURFBOARD
-	money 1000  ; SAFARI_BALL
+	money 100   ; SAFARI_BALL
 	money 0     ; POKEDEX
 	money 2100  ; MOON_STONE
 	money 100   ; ANTIDOTE
@@ -18,7 +18,7 @@ ItemPrices:
 	money 1000  ; MAX_POTION
 	money 750   ; HYPER_POTION
 	money 500   ; SUPER_POTION
-	money 300   ; POTION
+	money 6666  ; POTION
 	money 0     ; BOULDERBADGE
 	money 0     ; CASCADEBADGE
 	money 0     ; THUNDERBADGE
